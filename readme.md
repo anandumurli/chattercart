@@ -9,3 +9,10 @@ The bot can perform tasks such as helping answer basic questions from the contex
 
 ## Welcome to Progress
 This is working branch of the directory where I will be off-loading most\all of my work. All new updates and added features will appear here before getting selected for any version, or getting published in the main branch.
+
+We are trying to work on this for now!
+-trying to set up the bot which can learn based on the context file provided to it!!
+-trying to make sure the bot is persistent and can learn based on session memory!
+    -might have to implement some logic with database storing the session id!
+    -will include a method to summarize the conversation and store that somewhere too@@
+    
